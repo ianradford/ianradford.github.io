@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Blog.</title>
+ <link href="http://shaunstorey.github.io/atom.xml" rel="self"/>
+ <link href="http://shaunstorey.github.io/"/>
+ <updated>2014-08-27T18:34:31+01:00</updated>
+ <id>http://shaunstorey.github.io</id>
+ <author>
+   <name>Shaun Storey</name>
+   <email>shaun.storey@autotrader.co.uk</email>
+ </author>
+
+ 
+ <entry>
+   <title>Blog Launch</title>
+   <link href="http://shaunstorey.github.io//2014/08/01/guild-launch/"/>
+   <updated>2014-08-01T00:00:00+01:00</updated>
+   <id>http://shaunstorey.github.io/2014/08/01/guild-launch</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;Welcome&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;Thanks!&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

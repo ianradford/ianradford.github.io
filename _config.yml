@@ -1,0 +1,19 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Blog.
+tagline:          Just stuff
+url:              http://ianradford.github.io
+paginate:         4
+baseurl:          /
+author:
+  name:           Ian Radford
+  url:            http://ianradford.github.io
+
+# Custom vars
+version:          1.0.0
